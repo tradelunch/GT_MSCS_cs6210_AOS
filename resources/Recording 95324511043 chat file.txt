@@ -1,0 +1,273 @@
+00:01:35	amitanilkumar:	Is there a TurningPoint session code?
+00:02:14	Xander:	Professor is on mute
+00:02:16	Nathan Do:	Replying to "Is there a Turning..."
+
+I think it'll be mentioned soon, once the meeting gets started!
+00:02:19	Jesse Hall:	Reacted to "Is there a Turning..." with ➕
+00:03:10	amitanilkumar:	Reacted to "I think it'll be men..." with 👍
+00:03:16	Dain Kim:	Reacted to "I think it'll be men..." with 👍
+00:04:43	xuhui liu:	yes
+00:04:48	Rinu John george:	yes
+00:04:51	Dain Kim:	Yes
+00:06:56	Taylor Zhang:	Is the point solution session ID released yet?
+00:07:15	amitanilkumar:	Replying to "Is the point solutio..."
+
+Not yet
+00:08:22	Chris kosik:	Yes
+00:08:22	Andres Beltran:	yes
+00:08:24	Maryann Gitonga:	Yes
+00:08:25	Dain Kim:	yes
+00:08:26	Peter Jaglom:	yes
+00:08:33	Cheng Hsuan Chiang:	yes
+00:15:04	Bryant Niederriter:	Does Honorlock run on Linux, or do I need a Windows PC?
+00:15:22	philip:	you need a windows or mac computer, sadly
+00:15:30	darshanime darshanime:	Will the questions be released for all the 3 tests?
+00:16:19	Nathan Do:	Replying to "Will the questions..."
+
+Yes; 80% of the questions will be released for each test
+00:16:59	Asad Siddiqui:	How long will the video hangouts be each week?
+00:17:09	philip:	Replying to "How long will the vi..."
+
+about an hour
+00:17:12	Asad Siddiqui:	Reacted to "about an hour" with 👍
+00:17:19	Zixiang Guan:	Reacted to "about an hour" with 👍
+00:17:35	darshanime darshanime:	Is there a grade curve for the course? What is the expectation for an A?
+00:18:01	philip:	pro-tip: if you turn on your camera during this call, it makes Kishore happy! He might even learn your name and hire you as a TA ;)
+00:18:15	Zixiang Guan:	Reacted to "pro-tip: if you turn..." with 😂
+00:18:18	Sai Hemanth Reddy Bheemreddy:	Reacted to "pro-tip: if you turn…" with 😂
+00:18:21	Pesi Taototo:	Reacted to "pro-tip: if you turn..." with 😂
+00:18:23	Dain Kim:	Reacted to "pro-tip: if you turn..." with 😂
+00:18:24	Peter Jaglom:	Reacted to "pro-tip: if you turn..." with 😂
+00:18:28	Zayd Alashini:	Reacted to "pro-tip: if you turn..." with 😂
+00:18:32	Anand Jayabalan:	Reacted to "pro-tip: if you turn..." with 😂
+00:18:36	Willy Reyes:	Reacted to "pro-tip: if you turn..." with 😮
+00:18:38	Madhav Ayyagari:	Reacted to "pro-tip: if you turn..." with 😂
+00:18:49	amitanilkumar:	Reacted to "pro-tip: if you turn..." with 🤓
+00:19:12	Dain Kim:	Reacted to "pro-tip: if you turn..." with 🤓
+00:19:28	Maryann Gitonga:	Reacted to "pro-tip: if you turn..." with 😮
+00:19:28	Nathan Do:	Reacted to "pro-tip: if you tu..." with 😂
+00:19:29	Nathan Do:	Reacted to "pro-tip: if you tu..." with 🤓
+00:20:30	John Campbell:	Reacted to "pro-tip: if you turn..." with 😂
+00:22:04	Jenny Ren:	Reacted to "pro-tip: if you turn..." with 😂
+00:22:06	Jenny Ren:	Reacted to "pro-tip: if you turn..." with 🤓
+00:22:47	Andrew Gingrich:	Reacted to "about an hour" with 👍
+00:23:39	Bob:	There still is an permissions issue with the Media Gallery
+00:23:53	philip:	Reacted to "There still is an pe..." with 🤨
+00:24:01	Madhav Ayyagari:	Yes, we don’t get to view the videos directly in the canvas page.
+00:24:05	Jacob Fast:	Is there anything that wasnt covered in CS6200GIOS that we should know before starting the semester?
+00:24:12	Jenny Ren:	What do we need to prepare for hangout from next week? Just finishing previous week’s video is sufficient?
+00:24:29	Willy Reyes:	yes
+00:24:51	amitanilkumar:	Reacted to "Is there anything th..." with 👍
+00:25:00	Anthony Truong:	Replying to "There still is an pe..."
+
+https://edstem.org/us/courses/60905/discussion/5166710?answer=11940653 zip of the lectures was shared on ed if you didn’t see it
+00:25:04	philip:	Replying to "What do we need to p..."
+
+yeah, that's sufficient
+00:25:17	Madhav Ayyagari:	I have the “Three easy pieces” book. Hopefully that is good enough as a background for this.
+00:25:38	philip:	Replying to "What do we need to p..."
+
+nothign is really required. If you fall behind (try not to!) it's ok and you still benefit from being here
+00:26:12	Ben Snider:	Reacted to "Is there anything th..." with ➕
+00:26:19	philip:	Replying to "What do we need to p..."
+
+this is oftentimes a "recap" of the lectures where you learn Kishore's POV and what he thinks are the key takeaways
+00:26:59	Jenny Ren:	Reacted to "this is oftentimes a..." with ❤️
+00:27:03	Jenny Ren:	Reacted to "nothign is really re..." with 👍
+00:29:01	Pesi Taototo:	We have Media Gallery but there’s also a public AOS lectures available on Ed. Are they equivalent?
+00:29:06	Bob:	Are we not using Point Solutions today??
+00:29:08	Sunny Kharel:	Would using the given review material to answer the diagnostic test be sufficient to be ready for this course?
+00:29:16	Andrew Gingrich:	Is there a session id for today?
+00:29:17	Madhav Ayyagari:	A trial run of point solutions?
+00:29:18	amitanilkumar:	Do we need to mark attendance for today?
+00:29:34	Willy Reyes:	When will the diagnostic test be available?
+00:29:45	Jenny Ren:	For those of us who already used personal email for today,  is it going to be a problem?
+00:30:30	darshanime darshanime:	@Gagan Reen does course canvas page have the link for turningpoint?
+00:30:52	amitanilkumar:	Replying to "@Gagan Reen does cou..."
+
+https://gatech.instructure.com/courses/407756/external_tools/1087?display=borderless
+00:30:53	Sunny Kharel:	Session id?
+00:31:06	Bryant Niederriter:	Which timezone are assignments in? EST, Localtime, AOT?
+00:31:20	Nathan Do:	Replying to "We have Media Gall..."
+
+The media gallery will contain these recordings and also recordings for his undergrad class (CS2200)
+00:31:22	Gagan Reen:	Replying to "@Gagan Reen does cou..."
+
+It does
+
+The menu on the left should have a PointSolutions tab that you can use
+00:31:42	Sunny Kharel:	I joined a little late. Am I eligible for the session ID?
+00:32:00	Sunny Kharel:	Replying to "I joined a little la..."
+
+omscs6210
+00:32:12	Dain Kim:	Reacted to "omscs6210" with 👍
+00:32:17	Jacob Fast:	how do we log into turning point?
+00:32:29	Jianyi Ren:	+1, just swapped from personal account
+00:32:35	Sunny Kharel:	Go to canvas and click on the tab
+00:32:40	Jason Orendorff:	Replying to "how do we log into t..."
+
+First go to canvas, click PointSolutions in the left menu
+00:32:45	Ben Snider:	Reacted to "omscs6210" with 👍
+00:33:06	Jason Orendorff:	Replying to "how do we log into t..."
+
+You’ll have to click through a 5-step sign-on process
+00:33:20	philip:	Replying to "When will the diagno..."
+
+it's already available in the Assignments section on Canvas
+00:33:57	darshanime darshanime:	I’m still logging in! Does that mean I missed today’s attendance? 🫠
+00:34:26	philip:	Replying to "I’m still logging in..."
+
+typically there's multiple questions, so you have more than 1 chance
+00:34:31	Jianyi Ren:	Reacted to "how do we log into t..." with ❤️
+00:34:39	Jianyi Ren:	Reacted to "Screenshot2024_08_20_183459.jpg" with ❤️
+00:35:02	Bryant Niederriter:	What do you think about unikernels?
+00:36:02	Pratyush Kumar Pandey:	Replying to "What do you think ab..."
+
+I have no idea what u talking about - is this an indication to drop the course?
+00:36:06	Ben Snider:	Will students that choose to do the projects solo get selected to be "interviewed" about their submissions? Or do only groups get interviewed?
+00:36:10	darshanime darshanime:	Replying to "I’m still logging in..."
+
+Okay, missed that too. But I’m logged in now
+00:36:16	darshanime darshanime:	Replying to "I’m still logging in..."
+
+Will there be another one?
+00:36:22	Ben Snider:	Reacted to "I have no idea what ..." with 😂
+00:36:24	darshanime darshanime:	Reacted to "I have no idea what ..." with 😂
+00:36:37	Chris kosik:	Reacted to I have no idea what ... with "😂"
+00:36:39	Jianyi Ren:	Reacted to "I have no idea what ..." with 😂
+00:36:41	Bryant Niederriter:	Reacted to "I have no idea wha..." with 😂
+00:37:14	Bob:	I like the term "inmates"
+00:37:23	Madhav Ayyagari:	Reacted to "I like the term "inm..." with 😂
+00:37:25	philip:	Reacted to "I like the term "inm..." with 😁
+00:37:27	Zayd Alashini:	Reacted to "I like the term "inm..." with 😂
+00:37:33	Anand Jayabalan:	Reacted to "I like the term "inm..." with 😂
+00:37:38	Dain Kim:	Reacted to "I like the term "inm..." with 😂
+00:37:39	Dain Kim:	Reacted to "I like the term "inm..." with 😁
+00:37:39	Bilal Samee:	Reacted to "I like the term "i..." with 😂
+00:37:43	Sai Hemanth Reddy Bheemreddy:	Reacted to "I like the term "inm…" with 😂
+00:37:45	Bilal Samee:	Reacted to "I like the term "i..." with 😁
+00:37:50	Asad Siddiqui:	Reacted to "I like the term "inm..." with 😁
+00:37:54	Ben Snider:	Replying to "I like the term "inm..."
+
+Adam's photo does look suspiciously like a mugshot 😛
+00:37:58	Chris kosik:	Reacted to I like the term "inm... with "🚓"
+00:38:02	Willy Reyes:	Reacted to "I have no idea what ..." with 😂
+00:38:12	Willy Reyes:	Reacted to "Adam's photo does lo..." with 😂
+00:38:28	James:	I'm a little confused about the GCC version wording in the Setting-up Your Network.  It says "GCC compiler version 7.5.0 must be sufficient for this course".  Does that mean that is the minimum version needed or that we must use that version?
+00:38:30	Maryann Gitonga:	Reacted to "Adam's photo does lo..." with 😂
+00:38:32	Bob:	Replying to "I like the term "inm..."
+
+Copied from Jailbirds??
+00:38:36	philip:	Replying to "Will students that c..."
+
+individual vs partner is not a factor
+00:38:42	Pratyush Kumar Pandey:	Reacted to "Adam's photo does lo..." with 😂
+00:38:44	Ben Snider:	Replying to "Will students that c..."
+
+got it thx
+00:38:50	amitanilkumar:	Reacted to "I like the term "inm..." with 😁
+00:38:53	Sai Hemanth Reddy Bheemreddy:	Reacted to "Adam's photo does lo…" with 😂
+00:38:54	Orlando Castaneda:	Reacted to "Adam's photo does lo..." with 😂
+00:39:07	Ben Snider:	Reacted to "I'm a little confuse..." with ➕
+00:40:33	Asad Siddiqui:	Will we get instructions for setting up a M1 Mac using a VM for this course?
+00:40:43	Bryant Niederriter:	Reacted to "I'm a little confu..." with ➕
+00:40:50	darshanime darshanime:	Replying to "Will we get instruct..."
+
+M1 is not supported I think
+00:40:58	Madhav Ayyagari:	Go LIDAR !
+00:41:29	Soon Ki Kwon:	PointSolution doesn't connect well and it's next to impossible to listen to the professor, while zoom connects well. Is it obligatory to enter this hangout via PointSolution?
+00:42:25	philip:	Replying to "PointSolution doesn'..."
+
+you can watch via zoom, and use PointSolution only to answer quiz question
+00:42:34	Jianyi Ren:	Replying to "Will we get instruct..."
+
+M1 is not supported. Gatech students have $100 Azure credits. Just check the bills frequently its so easy to burn them quickly if not careful enough :-/
+00:42:46	Ben Snider:	Reacted to "you can watch via zo..." with 👆
+00:42:46	philip:	Replying to "PointSolution doesn'..."
+
+I didn't know audio came thru on PS, I thought it was just the slides :shrug:
+00:43:38	Asad Siddiqui:	Reacted to "M1 is not supported...." with 👍
+00:43:40	darshanime darshanime:	Replying to "Will we get instruct..."
+
+How do we avail the $100?
+00:43:43	Ben Snider:	Similar question - will there be precompiled object files that we'll need to link against for our projects (similar to GIOS)? I.e., do we need to match exactly on CPU architecture, Linux distro/version, and gcc toolchains?
+00:44:28	Jianyi Ren:	Replying to "Will we get instruct..."
+
+The subsequent projects will have README for azure setup
+00:45:01	Soon Ki Kwon:	Reacted to "you can watch via zo…" with 👆
+00:45:20	Jacob Fast:	Reacted to "Similar question -..." with ➕
+00:45:25	James:	Reacted to "Similar question -..." with ➕
+00:46:41	Christopher:	Reacted to "Similar question - w..." with ➕
+00:46:55	Alex Gessinger:	Reacted to "Similar question - w..." with ➕
+00:47:19	Madhav Ayyagari:	We need to have a most trusted channel for such edge devices to talk to each other, along with what is the trusted info that can be exchanged so that the first car there can tell the second car about the pedestrian it sees first.
+00:49:13	Ben Snider:	I always wonder, to what extent are the large public cloud providers incentivized against distributed edge systems? Their entire business model relies on being a centralized trusted aggregator. GCP for example shut down their IoT Core business a little while ago...
+00:50:04	philip:	Replying to "Similar question - w..."
+
+I don't think there's any precompiled object files to link against.
+
+caveat: I took this a few semesters ago and just started TAing yesterday. I don't think the projects have changed to that extent though
+00:50:14	Ben Snider:	Reacted to "I don't think there'..." with 👍
+00:50:47	Rinu John george:	Reacted to "I don't think there'..." with 👍
+00:51:06	philip:	Replying to "I always wonder, to ..."
+
+as an underdog GCP is incentivized to get people off the cloud and onto their managed edge solutions ;)
+00:52:01	Ben Snider:	Replying to "I always wonder, to ..."
+
+true, they could niche into it
+00:52:29	Soon Ki Kwon:	I could not answer the quiz, since I was not yet on PointSolution. Then is it just over?
+00:53:14	philip:	Replying to "I always wonder, to ..."
+
+the regulatory reasons that prevent some usecases from using clouod are real though, so all the cloud providers are trying to legitimately fill that niche (and locking customers in in other ways)
+00:53:19	Bob:	No pickle ball???
+00:53:28	Ben Snider:	Reacted to "the regulatory reaso..." with 👍
+00:53:44	Ashis Patel:	Reacted to "No pickle ball???" with 😂
+00:53:52	Bryant Niederriter:	Reacted to "No pickle ball???" with 😂
+00:54:15	Bilal Samee:	Thank you professor Kishore!
+00:54:17	Chris kosik:	Reacted to No pickle ball??? with "😂"
+00:54:20	Jianyi Ren:	Reacted to "Thank you professor ..." with ❤️
+00:54:23	Sean Nima:	Reacted to "Thank you professor ..." with ❤️
+00:54:26	Ashis Patel:	Reacted to "Thank you professor ..." with ❤️
+00:54:27	Wontha Kyaw San:	Reacted to "Thank you professo..." with ❤️
+00:54:28	Ming Zhang:	Reacted to "Thank you professor ..." with ❤️
+00:54:58	Madhav Ayyagari:	I HEARD PILLOWS
+00:55:04	Ben Snider:	wouldn't be a zoom without talking off mute
+00:55:06	Dain Kim:	Reacted to "Thank you professor ..." with ❤️
+00:55:08	Jianyi Ren:	Reacted to "I HEARD PILLOWS" with 😂
+00:55:09	Bilal Samee:	Reacted to "I HEARD PILLOWS" with 😂
+00:55:13	Wontha Kyaw San:	Reacted to "I HEARD PILLOWS" with 😂
+00:55:14	Maryann Gitonga:	Reacted to "I HEARD PILLOWS" with 😂
+00:55:19	Charles Salameh:	thanks professor
+00:55:24	amitanilkumar:	Reacted to "I HEARD PILLOWS" with 😂
+00:55:49	Madhav Ayyagari:	blanket
+00:55:50	Dain Kim:	Reacted to "I HEARD PILLOWS" with 😂
+00:55:51	Madhav Ayyagari:	just kidding
+00:56:10	Jingfei Zhou:	I’m sorry I unmuted accidentally
+00:56:19	amitanilkumar:	Reacted to "I’m sorry I unmuted ..." with 😂
+00:56:21	Dain Kim:	Reacted to "I’m sorry I unmuted ..." with 😂
+00:56:23	Pesi Taototo:	Reacted to "I’m sorry I unmuted ..." with 😂
+00:56:23	Soon Ki Kwon:	Reacted to "I’m sorry I unmuted …" with 😂
+00:56:46	Bilal Samee:	Reacted to "I’m sorry I unmut..." with 😂
+00:56:48	Mark Dabe:	Was there a quiz today? I arrived around the second half of the session.
+00:57:24	Maryann Gitonga:	Reacted to "I’m sorry I unmuted ..." with 😂
+00:57:43	Madhav Ayyagari:	Thank you Prof.
+00:57:46	Dain Kim:	Thank you professor!
+00:57:48	Sunny Kharel:	Thanks
+00:57:49	Pesi Taototo:	Thank you
+00:57:49	Ming Zhang:	thank you!
+00:57:51	Sean Nima:	Thank you professor!
+00:57:51	Jordan:	Thank you
+00:57:52	Jianyi Ren:	Perfect timing!
+00:57:54	Peter Jaglom:	Thank you!
+00:57:54	Rinu John george:	Thank you
+00:57:54	Shreyas Prasad:	Thank you!
+00:57:55	Maryann Gitonga:	Thank you.
+00:57:55	Huie, Marquise:	Thank you!
+00:57:58	Li'er:	Thank you!
+00:58:02	amitanilkumar:	Thank you
+00:58:03	Wontha Kyaw San:	Thank you professor
+00:58:10	Ashis Patel:	Thank you! Take care.
+00:58:11	xuhui liu:	Thank you
+00:58:12	Gaubert Santiago:	Thank you!
+00:58:13	Drew Ordway:	Thank you professor!
+00:58:14	Calvin Mei:	thanks!
+00:58:14	Xander:	thanks
