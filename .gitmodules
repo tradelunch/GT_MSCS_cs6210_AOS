@@ -1,3 +1,6 @@
 [submodule "cs6210_pr1"]
 	path = cs6210_pr1
 	url = git@github.com:tradelunch/cs6210_pr1.git
+[submodule "cs6210_pr2_barrier_synchronization"]
+	path = cs6210_pr2_barrier_synchronization
+	url = https://github.com/tradelunch/cs6210_pr2_barrier_synchronization.git
