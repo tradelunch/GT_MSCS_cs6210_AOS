@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tio/Documents/___01_omscs/omscs/cs6210_AOS/cs6210_pr2_barrier_synchronization/project2_template/mpi",
+      "program": "/Users/tio/Documents/___01_omscs/omscs/cs6210_AOS/cs6210_pr2_barrier_synchronization/project2_template/mpi/build/Debug/outDebug"
+    }
+  ]
+}
