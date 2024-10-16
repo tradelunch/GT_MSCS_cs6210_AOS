@@ -2,9 +2,9 @@
 	path = cs6210_tests
 	url = git@github.com:tradelunch/cs6210_tests.git
 
-[submodule "cs6210_pr1"]
-	path = cs6210_pr1
-	url = git@github.com:tradelunch/cs6210_pr1.git
+[submodule "cs6210_pr1_vm_cpu_scheduler_memory_coordinator"]
+	path = cs6210_pr1_vm_cpu_scheduler_memory_coordinator
+	url = git@github.com:tradelunch/cs6210_pr1_vm_cpu_scheduler_memory_coordinator.git
 
 [submodule "cs6210_pr2_barrier_synchronization"]
 	path = cs6210_pr2_barrier_synchronization
