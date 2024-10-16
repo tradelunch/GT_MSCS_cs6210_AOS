@@ -1,9 +1,11 @@
 [submodule "cs6210_tests"]
 	path = cs6210_tests
 	url = git@github.com:tradelunch/cs6210_tests.git
+
 [submodule "cs6210_pr1"]
 	path = cs6210_pr1
 	url = git@github.com:tradelunch/cs6210_pr1.git
+
 [submodule "cs6210_pr2_barrier_synchronization"]
 	path = cs6210_pr2_barrier_synchronization
 	url = https://github.com/tradelunch/cs6210_pr2_barrier_synchronization.git
@@ -11,6 +13,7 @@
 [submodule "cs6210_pr3_grpc_online_store"]
 	path = cs6210_pr3_grpc_online_store
 	url = https://github.com/tradelunch/cs6210_pr3_grpc_online_store.git
-[submodule "cs6210_paper_summary"]
-	path = cs6210_paper_summary
-	url = git@github.com:tradelunch/cs6210_paper_summary.git
+    
+[submodule "cs6210_pr0_assignments"]
+	path = cs6210_pr0_assignments
+	url = git@github.com:tradelunch/cs6210_pr0_assignments.git
