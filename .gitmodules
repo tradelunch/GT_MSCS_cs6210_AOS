@@ -11,3 +11,6 @@
 [submodule "cs6210_pr3_grpc_online_store"]
 	path = cs6210_pr3_grpc_online_store
 	url = https://github.com/tradelunch/cs6210_pr3_grpc_online_store.git
+[submodule "cs6210_paper_summary"]
+	path = cs6210_paper_summary
+	url = git@github.com:tradelunch/cs6210_paper_summary.git
