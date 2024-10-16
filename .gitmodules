@@ -8,3 +8,6 @@
 	path = cs6210_pr2_barrier_synchronization
 	url = https://github.com/tradelunch/cs6210_pr2_barrier_synchronization.git
 
+[submodule "cs6210_pr3_grpc_online_store"]
+	path = cs6210_pr3_grpc_online_store
+	url = https://github.com/tradelunch/cs6210_pr3_grpc_online_store.git
