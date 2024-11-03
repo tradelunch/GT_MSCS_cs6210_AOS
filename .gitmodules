@@ -17,3 +17,6 @@
 [submodule "cs6210_pr0_assignments"]
 	path = cs6210_pr0_assignments
 	url = git@github.com:tradelunch/cs6210_pr0_assignments.git
+[submodule "cs6210_pr4_map_reduce"]
+	path = cs6210_pr4_map_reduce
+	url = git@github.com:tradelunch/cs6210_pr4_map_reduce.git
