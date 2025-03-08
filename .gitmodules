@@ -1,22 +1,22 @@
 [submodule "cs6210_tests"]
 	path = cs6210_tests
-	url = git@github.com:tradelunch/cs6210_tests.git
+	url = git@github.com:tradelunch/GT_MSCS_cs6210_tests.git
 
 [submodule "cs6210_pr1_vm_cpu_scheduler_memory_coordinator"]
 	path = cs6210_pr1_vm_cpu_scheduler_memory_coordinator
-	url = git@github.com:tradelunch/cs6210_pr1_vm_cpu_scheduler_memory_coordinator.git
+	url = git@github.com:tradelunch/GT_MSCS_cs6210_pr1_vm_cpu_scheduler_memory_coordinator.git
 
 [submodule "cs6210_pr2_barrier_synchronization"]
 	path = cs6210_pr2_barrier_synchronization
-	url = https://github.com/tradelunch/cs6210_pr2_barrier_synchronization.git
+	url = https://github.com/tradelunch/GT_MSCS_cs6210_pr2_barrier_synchronization.git
 
 [submodule "cs6210_pr3_grpc_online_store"]
 	path = cs6210_pr3_grpc_online_store
-	url = https://github.com/tradelunch/cs6210_pr3_grpc_online_store.git
+	url = https://github.com/tradelunch/GT_MSCS_cs6210_pr3_grpc_online_store.git
     
 [submodule "cs6210_pr0_assignments"]
 	path = cs6210_pr0_assignments
-	url = git@github.com:tradelunch/cs6210_pr0_assignments.git
+	url = git@github.com:tradelunch/GT_MSCS_cs6210_pr0_assignments.git
 [submodule "cs6210_pr4_map_reduce"]
 	path = cs6210_pr4_map_reduce
-	url = git@github.com:tradelunch/cs6210_pr4_map_reduce.git
+	url = git@github.com:tradelunch/GT_MSCS_cs6210_pr4_map_reduce.git
